@@ -1,0 +1,57 @@
+body {color:white; background-color: #801CAF; }
+h1 { 
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bold;
+   font-size: 42px;
+}
+h2 {
+   font-family: Helvetica;
+   font-weight: bold;
+   font-size: 32px;
+}
+h3 {
+   font-family: Helvetica;
+   font-weight: bold;
+   font-size: 25px;
+   color: black;
+}
+
+menu-item {
+			margin-top: 20px;
+			padding: 10px;
+			border: 2px solid black;
+			border-radius: 10px;
+		}
+
+		.menu-item img {
+			float: right;
+			margin-left: 20px;
+			width: 100px;
+			height: 100px;
+			object-fit: cover;
+			border: 2px solid black;
+			border-radius: 10px;
+		}
+
+		.menu-item h3 {
+			margin: 0;
+		}
+
+		.menu-item p {
+			margin: 0;
+			padding: 10px 0;
+		}
+p { 
+   font-family: Helvetica;
+   font-size: 25px;
+}
+#exteriordiner  {
+float: right;
+ margin: 0 8px;
+ }
+
+#family  {
+float: right;
+ margin: 0 8px;
+ }
